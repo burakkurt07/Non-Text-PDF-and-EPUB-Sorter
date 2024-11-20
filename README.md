@@ -18,9 +18,6 @@ Projenin çalışması için aşağıdaki kütüphaneler gereklidir:
 
 Kurulumu yapmak için şu komutları çalıştırabilirsiniz:
 
-```bash
-pip install -r requirements.txt
-
 
 ## ⚙️ Kullanım
 ### 1. Projeyi İndir
