@@ -16,21 +16,6 @@ Projenin çalışması için aşağıdaki kütüphaneler gereklidir:
 - `ebooklib`
 - `PyPDF2`
 
-Kurulumu yapmak için şu komutları çalıştırabilirsiniz:
-
-
-## ⚙️ Kullanım
-### 1. Projeyi İndir
-Projenin tamamını bir ZIP dosyası olarak indirebilir veya GitHub'dan klonlayabilirsiniz:
-
-```bash
-git clone https://github.com/username/non-text-pdf-epub-sorter.git
-
-
-Programı Çalıştır
-```bash
-Non-Text.py
-
 ## 📌 Ne İçin Kullanılabilir?
 
 Bu araç, özellikle büyük kitap koleksiyonlarını yöneten kullanıcılar, kütüphaneler, dijital arşiv yöneticileri ve araştırmacılar için faydalıdır. Aşağıda, hangi durumlarda kullanılabileceğine dair bazı örnekler verilmiştir:
@@ -47,8 +32,7 @@ E-kitap kütüphanenizdeki PDF, EPUB ve MOBI dosyalarınızın çoğu metinsiz o
 ### 4. **Araştırma ve Eğitim İçin Kitap Koleksiyonu Oluşturmak**
 Araştırma yapan akademisyenler veya eğitimciler için, yalnızca metin içeren kitapları ve belgeleri derlemek önemli olabilir. Bu araç, sadece metin içeren dosyaları ayıklamak için ideal bir çözümdür.
 
-### 5. **Kitap Projeleri ve Yazarlık**
-Yazarlar veya kitap projeleriyle ilgilenenler, yalnızca metinli dosyalarla çalışmak isteyebilir. Bu araç, kitabın yalnızca metin kısmını elde etmek için kullanışlı olabilir. Özellikle e-kitap yazarı iseniz, metinsiz dosyaları filtrelemek ve metinli dosyalara odaklanmak faydalı olacaktır.
+
 
 
 
